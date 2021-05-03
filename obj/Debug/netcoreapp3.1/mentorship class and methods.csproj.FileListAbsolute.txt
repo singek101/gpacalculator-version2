@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\mentorship class and methods\bin\Debug\netcoreapp3.1\mentorship class and methods.exe
+C:\Users\USER\Desktop\mentorship class and methods\bin\Debug\netcoreapp3.1\mentorship class and methods.deps.json
+C:\Users\USER\Desktop\mentorship class and methods\bin\Debug\netcoreapp3.1\mentorship class and methods.runtimeconfig.json
+C:\Users\USER\Desktop\mentorship class and methods\bin\Debug\netcoreapp3.1\mentorship class and methods.runtimeconfig.dev.json
+C:\Users\USER\Desktop\mentorship class and methods\bin\Debug\netcoreapp3.1\mentorship class and methods.dll
+C:\Users\USER\Desktop\mentorship class and methods\bin\Debug\netcoreapp3.1\mentorship class and methods.pdb
+C:\Users\USER\Desktop\mentorship class and methods\obj\Debug\netcoreapp3.1\mentorship class and methods.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\mentorship class and methods\obj\Debug\netcoreapp3.1\mentorship class and methods.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\mentorship class and methods\obj\Debug\netcoreapp3.1\mentorship class and methods.AssemblyInfo.cs
+C:\Users\USER\Desktop\mentorship class and methods\obj\Debug\netcoreapp3.1\mentorship class and methods.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\mentorship class and methods\obj\Debug\netcoreapp3.1\mentorship class and methods.dll
+C:\Users\USER\Desktop\mentorship class and methods\obj\Debug\netcoreapp3.1\mentorship class and methods.pdb
+C:\Users\USER\Desktop\mentorship class and methods\obj\Debug\netcoreapp3.1\mentorship class and methods.genruntimeconfig.cache
